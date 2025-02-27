@@ -7,7 +7,7 @@ Mi pasión por la creatividad y la tecnología me lleva a explorar nuevas manera
 ### 🚀 Mi viaje
 - 🎓 **Formación:** Diseño UX/UI, Psicología aplicada al diseño, Fotografía de moda.
 - 🛠️ **Herramientas favoritas:** Figma, Framer, Plasmic, Webflow
-- 🌱 **Lo que aprendo ahora:** Automatizaciones con Make y Zappier, Diseño con Figma y IA
+- 🌱 **Lo que aprendo ahora:** Automatizaciones con Make y Zappier, Diseño con Figma y IA y lo más nuevo Front End.
 
 ### 🎨 Mis proyectos
 - [Portfolio de Diseño](https://productdesigner.teresanovoa.com/)

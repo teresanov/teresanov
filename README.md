@@ -1,7 +1,7 @@
 ![Banner](https://productdesigner.teresanovoa.com/wp-content/uploads/2023/01/nombre-a-los-lados@2x.png)
 
 # ¡Hola! Soy Teresa Novoa 👩‍💻✨
-Soy **diseñadora UX/UI**, transicionande de **fotógrafa** y **creadora de contenido** con un enfoque en la investigación de usuario y la solución de sus problemas.
+Soy **diseñadora UX/UI**, transicionando de **fotógrafa** y **creadora de contenido** con un enfoque en la investigación de usuario y la solución de sus problemas.
 Mi pasión por la creatividad y la tecnología me lleva a explorar nuevas maneras de impactar con mis diseños.
 
 ### 🚀 Mi viaje
